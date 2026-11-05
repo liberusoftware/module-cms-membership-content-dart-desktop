@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-membership-content-dart-desktop",
+  "capabilityKey": "planned:cms:membership-content",
+  "presentation": "dart-desktop",
+  "package": "module_cms_membership_content_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/cms/nextjs/membership-content.md",
+  "presentationPlan": "projects/cms/features/membership-content.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
